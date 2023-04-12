@@ -1,5 +1,5 @@
 #!/bin/sh
-ROUND_ROBIN_RANGE = 85  # i.e. the number of IONs
+ROUND_ROBIN_RANGE = 63  # i.e. the number of IONs
 NET_START=2
 
 LUSTRE_CONF=/etc/modprobe.d/lustre.conf
